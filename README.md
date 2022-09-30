@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="100%" src="https://media2.giphy.com/media/l0COJ5gIPUN2vOj5u/200w.webp?cid=ecf05e475sl8mykmwsn634rnrd0vruqwmzhkm45gq96q3tul&rid=200w.webp&ct=g">
 
 
 <h1 align="center">Hi 👋, I'm Vikash</h1>
