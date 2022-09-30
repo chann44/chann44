@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="500" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47outicfdv4p6nx5jb5r6cdrck2jfc9ig15538jfv7&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="100%" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47outicfdv4p6nx5jb5r6cdrck2jfc9ig15538jfv7&rid=giphy.gif&ct=g">
 
 
 <h1 align="center">Hi 👋, I'm Vikash</h1>
