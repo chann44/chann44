@@ -1,4 +1,5 @@
-![MasterHead](https://media4.giphy.com/media/ysjXaQVnZpr6OnVlNQ/giphy.gif?cid=ecf05e47ef5scsmeu1qalx91n13q3iqso0n7j3zgqa79puww&rid=giphy.gif)
+<img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <h1 align="center">Hi 👋, I'm Vikash</h1>
 <h3 align="center">A passionate developer who like to work on web 2=+1 and Frontend</h3>
