@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash</h1>
-<h3 align="center">A passionate developer who like to work on web2 =+1 and Frontend</h3>
+<h3 align="center">A passionate developer who like to work on web 2=+1 and Frontend</h3>
 
 <p align="left"> <a href="https://twitter.com/44_chann" target="blank"><img src="https://img.shields.io/twitter/follow/44_chann?logo=twitter&style=for-the-badge" alt="44_chann" /></a> </p>
 
