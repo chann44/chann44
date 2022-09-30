@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikash</h1>
 <h3 align="center">A passionate developer who like to work on web2 =+1 and Frontend</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chann44" alt="chann44" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/44_chann" target="blank"><img src="https://img.shields.io/twitter/follow/44_chann?logo=twitter&style=for-the-badge" alt="44_chann" /></a> </p>
 
 - 🔭 I’m currently working on [Phenom wallet](https://github.com/FetcchX/Wallet)
@@ -31,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chann44&show_icons=true&locale=en" alt="chann44" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chann44&" alt="chann44" /></p>
+
