@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **44chansw@gmail.com**
 
-- ⚡ Fun fact **I am a good cook**
+- ⚡ Fun fact **I want to build supersonic drones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
