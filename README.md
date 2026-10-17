@@ -4,7 +4,7 @@ I build infrastructure for AI agents and tools for developers.
 
 Currently exploring agent runtimes, persistent execution environments, filesystems, and the systems that make software more reliable.
 
-[Website](https://babycto.fyi) · [X](https://twitter.com/44_Chann) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[Website](https://chanbtw.vercel.app) · [X](https://twitter.com/44_Chann) · [LinkedIn](https://www.linkedin.com/in/vikash-manda-69a231200/)
 
 ---
 
