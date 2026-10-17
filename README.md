@@ -13,14 +13,14 @@ Currently exploring agent runtimes, persistent execution environments, filesyste
 A few things I'm building and experimenting with.
 
 <table>
-<tr><td>🖥️ **[Zoo](https://github.com/chann44/zoo)**</td><td>Isolated, persistent desktop environments that AI agents can control programmatically.</td></tr>
-<tr><td>📁 **[SFS](https://github.com/chann44/sfs)**</td><td>An in-memory virtual filesystem that gives AI agents a scratchpad for files and intermediate artifacts.</td></tr>
-<tr><td>🔐 **[Arrakis](https://github.com/chann44/Arrakis)**</td><td>A self-hosted dependency and supply-chain security scanner with vulnerability detection and risk scoring.</td></tr>
-<tr><td>🔎 **[Dowse](https://github.com/chann44/dowse)**</td><td>Semantic code search using Gemma 3 and embedding models.</td></tr>
-<tr><td>🛣️ **[IKYK](https://github.com/chann44/ikyk)**</td><td>A personal API gateway written in Go.</td></tr>
-<tr><td>🗄️ **[Poose](https://github.com/chann44/poose)**</td><td>A SQLite database migration tool written in Python.</td></tr>
-<tr><td>🤖 **[Tua](https://github.com/chann44/tua)**</td><td>Experiments with TV-use agents, agent harnesses, and MCP.</td></tr>
-<tr><td>🌱 **[Labs](https://github.com/chann44/labs)**</td><td>My personal garden of experiments, prototypes, and ideas.</td></tr>
+<tr><td>[Zoo](https://github.com/chann44/zoo)**</td><td>Isolated, persistent desktop environments that AI agents can control programmatically.</td></tr>
+<tr><td>[SFS](https://github.com/chann44/sfs)**</td><td>An in-memory virtual filesystem that gives AI agents a scratchpad for files and intermediate artifacts.</td></tr>
+<tr><td>[Arrakis](https://github.com/chann44/Arrakis)**</td><td>A self-hosted dependency and supply-chain security scanner with vulnerability detection and risk scoring.</td></tr>
+<tr><td>[Dowse](https://github.com/chann44/dowse)**</td><td>Semantic code search using Gemma 3 and embedding models.</td></tr>
+<tr><td>[IKYK](https://github.com/chann44/ikyk)**</td><td>A personal API gateway written in Go.</td></tr>
+<tr><td>[Poose](https://github.com/chann44/poose)**</td><td>A SQLite database migration tool written in Python.</td></tr>
+<tr><td>[Tua](https://github.com/chann44/tua)**</td><td>Experiments with TV-use agents, agent harnesses, and MCP.</td></tr>
+<tr><td>[Labs](https://github.com/chann44/labs)**</td><td>My personal garden of experiments, prototypes, and ideas.</td></tr>
 </table>
 
 ---
