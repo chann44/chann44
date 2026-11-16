@@ -51,6 +51,10 @@ A few things I'm building and experimenting with.
       <td><a href="https://github.com/chann44/labs"><b>Labs</b></a></td>
       <td>My personal garden of experiments, prototypes, and ideas.</td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/chann44/ring"><b>Ring</b></a></td>
+      <td>A terminal internet speed tester built with Rust, with live latency, download, and upload measurements.</td>
+    </tr>
   </tbody>
 </table>
 
